@@ -5,7 +5,7 @@ Cyber bullying has been increasing at an unfathomable rate with the rise of the 
 bullying attacks and reduce their amount. 
 
 
-### **MY WORK** 
+### **OUR WORK** 
 
 1. In this paper we will discuss the latest technologies like Naive Bayes, SVM, ,CNN and LSTM (Neural Networks) that have been applied in this area and compare their results.
 
